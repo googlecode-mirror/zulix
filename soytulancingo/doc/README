@@ -1,0 +1,6 @@
+Comandos para crear la base de datos
+
+mysql -u root
+
+CREATE DATABASE soytulancingo;
+GRANT ALL PRIVILEGES ON soytulancingo.* TO soytulancingo@localhost IDENTIFIED BY 'soytulancingo';
