@@ -1,0 +1,1 @@
+Zulix en su afán de desarrollar conocimiento y proyectos opensource, utilizará Google Code para este proposito, este repositorio tendrá el fin de almacenar los proyectos libres que los miembros de Zulix generen.
